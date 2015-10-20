@@ -1,0 +1,31 @@
+{
+  "name": "com.manateeworks.barcodescanner",
+  "version": "1.7.1",
+  "description": "Manatee Works Barcode Scanner Plugin",
+  "cordova": {
+    "id": "com.manateeworks.barcodescanner",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manateeworks/phonegap-mwbarcodescanner.git"
+  },
+  "keywords": [
+    "phonegap",
+    "barcode",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8"
+  ],
+  "author": "Manatee Works",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manateeworks/phonegap-mwbarcodescanner/issues"
+  },
+  "homepage": "https://github.com/manateeworks/phonegap-mwbarcodescanner#readme"
+}
